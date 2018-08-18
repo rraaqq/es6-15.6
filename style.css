@@ -1,0 +1,41 @@
+body {
+    background-color: grey;
+}
+
+.container {
+    margin: 200px auto;
+    width: 300px;
+    text-align: center;
+}
+
+.stopwatch {
+    font-family: 'Orbitron';
+    width: 300px;
+    height: 150px;
+    font-size: 40px;
+    color: #29FD2F;
+    background-color: #000;
+    text-align: center;
+    line-height: 150px;
+    border-radius: 10px;
+}
+
+.button {
+    text-decoration: none;
+    background-color: #000;
+    color: #fff;
+    display: inline-block;
+    width: 80px;
+    text-align: center;
+    border-radius: 5px;
+    margin: 2px;
+}
+
+.results {
+    width: 260px;
+    background-color: #000;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 20px;
+    color: #fff;
+}

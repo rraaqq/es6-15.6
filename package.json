@@ -1,0 +1,24 @@
+{
+  "name": "es6-15.6",
+  "version": "1.0.0",
+  "description": "stopwatch",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "babel script.js --watch --out-file script-compiled.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rraaqq/es6-15.6.git"
+  },
+  "author": "Michał Raczkowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rraaqq/es6-15.6/issues"
+  },
+  "homepage": "https://github.com/rraaqq/es6-15.6#readme",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-latest": "^6.24.1"
+  }
+}
