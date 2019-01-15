@@ -1,3 +1,3 @@
-# es6-15.6
+# stopwatch-es6
 
-https://rraaqq.github.io/es6-15.6/
+https://rraaqq.github.io/stopwatch-ES6/
